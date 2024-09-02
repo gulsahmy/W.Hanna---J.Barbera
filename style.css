@@ -10,3 +10,27 @@
     padding: 12px;
 
 }
+#proje{
+   background-color: rgba(237, 11, 11, 0.1);   
+}
+.card{
+    height: 50vh !important;
+}
+.card img{
+    background-size: cover;
+    background-position: center;    
+}
+.card img:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#contact{
+    background-image: url(./img/contact.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+#contact .btn{
+    background-color: pink;
+}
+
+
