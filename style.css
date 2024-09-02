@@ -1,0 +1,12 @@
+.carousel-item {
+    height: 90vh;
+}
+.carousel-item img{
+    height: 100%;
+}
+.carousel-caption p {
+    background-color: rgba(0, 0, 0, 0.767);
+    border-radius: 20px;
+    padding: 12px;
+
+}
