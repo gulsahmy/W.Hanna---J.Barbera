@@ -32,5 +32,21 @@
 #contact .btn{
     background-color: pink;
 }
+.project .card{
+    overflow: hidden !important;
+   
+}
+.scooby {
+    flex-direction: row;
+}
 
+@media (max-width: 768px) {
+    .scooby {
+        flex-direction: column;
+    }
+}
+.scooby1 img{
+    min-width: 300px !important;
+    min-height: 400px !important;
+}
 
